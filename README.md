@@ -1,2 +1,2 @@
 # Spatial-Analysis-and-Geospatial-Data-Science
-A udemy course in python.
+This repository contains notebooks which has analysis visualisations done during the course
